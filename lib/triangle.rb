@@ -1,4 +1,4 @@
-require "pry"
+require 'pry'
 
 class Triangle
   # write code here
@@ -42,3 +42,5 @@ class Triangle
   class TriangleError < StandardError
   end
 end
+
+#binding.pry
